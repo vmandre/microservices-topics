@@ -1,0 +1,5 @@
+spring:
+  security:
+    user:
+      name: api-user
+      password: api-pwd
