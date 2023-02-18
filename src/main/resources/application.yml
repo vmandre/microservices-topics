@@ -3,3 +3,6 @@ spring:
     user:
       name: api-user
       password: api-pwd
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
